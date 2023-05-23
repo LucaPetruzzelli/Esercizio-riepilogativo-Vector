@@ -1,0 +1,6 @@
+Traccia: Caricare in un vettore di classe Vector i nomi degli studenti di una classe ed effettuare le seguenti operazioni: 1) determinare se nel vettore si trova il nome 'Anna'; 
+2) modificare il primo nome 'Giovanna' in 'Gianna'; 
+3) eliminare il nome 'Alberto'; 
+4) dopo aver eseguito l'operazione 
+5) determinare se ci sono nomi che contengono la sillaba 'do'; 
+6) determinare il primo e l'ultimo nome in ordine alfabetico decrescente.
